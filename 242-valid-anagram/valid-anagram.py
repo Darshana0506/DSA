@@ -8,3 +8,5 @@ class Solution:
         if(s_dict != t_dict):
             return False
         return True
+        # Frequency counting with hashmap method
+        # TC:O(N), SC:O(1)
