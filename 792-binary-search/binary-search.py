@@ -13,4 +13,6 @@ class Solution:
                 l = m+1
         return -1         
                 
+# TC:O(logn),because n/2,n/4,n/8..n/2^k, k = log(n)
+# SC:O(1), no extra space is used
 
